@@ -1,0 +1,20 @@
+*{
+ padding: 10px;
+ border-bottom: 8px;
+ padding-top: 5px;
+}
+body {
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(3,18,52,1) 14%, rgba(84,6,68,1) 24%, rgba(121,9,83,1) 35%, rgba(101,43,112,1) 52%, rgba(54,121,178,1) 71%, rgba(198,24,220,1) 87%, rgba(236,13,107,1) 93%, rgba(255,0,61,1) 100%);
+
+text-align: center;
+}
+ul{
+	color: white;
+	list-style: square;
+	background-color:black ;
+	border:4px, solid blue;
+	width: 250px;
+	text-align: left;
+	display: block;
+	margin:20px auto;
+}
